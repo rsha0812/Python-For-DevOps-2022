@@ -21,6 +21,10 @@ Build out python project scaffold:
 * command-line-tool
 * Microservice
 
+1. Create a Virtual Env: (virtualenv ~/.venv)
+2. Activate Virtual Env : (~/.venv/bin/activate)
+3. 
+
 ### 
 
 ## Command-Lines Tools 
